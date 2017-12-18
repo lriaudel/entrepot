@@ -1,0 +1,21 @@
+{
+	"name": "WP Tuning",
+	"author": "lriaudel",
+	"slug": "wptuning",
+	"icon": "https://raw.githubusercontent.com/lriaudel/wp-tuning/master/wp-tuning.svg",
+	"tags": [
+	  "plugins",
+	  "scripts"
+	],
+	"country": "fr_FR",
+	"releases": "https://github.com/lriaudel/wp-tuning/releases",
+	"issues": "https://github.com/lriaudel/wp-tuning/issues",
+	"description": {
+		"en_US" : "Differents filtres et fonctions pour améliorer WordPress",
+		"fr_FR" : "Differents hooks and functions to improve WordPress."
+	},
+	"README": "https://raw.githubusercontent.com/lriaudel/wp-tuning/master/README.md",
+	"urls": {
+		"history": "https://raw.githubusercontent.com/lriaudel/wp-tuning/master/CHANGELOG.md",
+	}
+}
